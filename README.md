@@ -4,6 +4,11 @@ I used it and got reliable result.
 
 Here, we will use Siamese Network to solve this problem.
 
+Files to be used: 
+
+fr_utils.py as a functions to feed images to the network and getting the encoding of images.
+
+inception_blocks_v2.py used to Compile FaceNet Network. 
 
 I got help from the following:
 
@@ -12,4 +17,6 @@ I got help from the following:
 
 
 
-Thank You
+
+
+Thank You !!!
