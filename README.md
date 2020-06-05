@@ -14,7 +14,7 @@ I got help from the following:
 
 1) From Video Lectures from Deeplearning.ai by Andrew Ng.
 
-2)FaceNet: A Unified Embedding for Face Recognition and Clustering  : https://arxiv.org/abs/1503.03832
+2) FaceNet: A Unified Embedding for Face Recognition and Clustering  : https://arxiv.org/abs/1503.03832
 
 
 
